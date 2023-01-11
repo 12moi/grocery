@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import List from './List';
 import Alert from './Alert';
+import Footer from './Footer';
 const getLocalStorage = () => {
   let list = localStorage.getItem('list');
   if (list) {
@@ -88,7 +89,9 @@ function App() {
           </button>
         </div>
       )}
+      < Footer />
     </section>
+    
   );
 }
 
