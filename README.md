@@ -1,5 +1,7 @@
 # Grocery App
 
+## Screenshot
+![Alt text](/src/assets/images/home.png?raw=true "Home page")
 
 ## Description
 This is a simple react app that allow the user to add a list of grocery items the user needs, also the user can edit the item or delete it.
