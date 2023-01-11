@@ -1,5 +1,9 @@
 # Grocery App
 
+
+## Description
+This is a simple react app that allow the user to add a list of grocery items the user needs, also the user can edit the item or delete it.
+
 ## How to Install and Run Grocery App
 For contribution to this you can fork or clone it then run npm  install to install  dependencies.
 ## Licence
